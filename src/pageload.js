@@ -13,7 +13,7 @@ export function pageload () {
         </nav>
       </header>
       <main>
-        <section>
+        <section id="section">
           <h3>Our Menu</h3>
           <ul>
             <li>Pizza</li>
