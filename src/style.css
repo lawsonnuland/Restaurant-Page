@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: red;
+}
+
+h1 {
+    margin: 0 auto;
+    background-color: orange;
+    text-align: center;
+    padding: 5px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+}

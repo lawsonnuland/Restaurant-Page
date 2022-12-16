@@ -2,6 +2,7 @@ import { pageload } from "./pageload"
 import { loadMenu } from "./menu";
 import { loadStory } from "./story";
 import { loadContact } from "./contact";
+import "./style.css";
 
 pageload();
 console.log("Webpack worked.")
